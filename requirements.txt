@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 pyrofork==2.3.45
 tgcrypto 
 requests 
